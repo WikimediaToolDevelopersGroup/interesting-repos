@@ -1,0 +1,6 @@
+[submodule "bots/cygnus"]
+	path = bots/cygnus
+	url = https://gitlab.wmflabs.org/Cygnus/Cygnus.git
+[submodule "bots/pywikibot"]
+	path = bots/pywikibot
+	url = https://github.com/wikimedia/pywikibot.git
